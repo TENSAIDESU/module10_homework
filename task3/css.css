@@ -1,0 +1,15 @@
+.chat-container {
+      width: 400px;
+      margin: 0 auto;
+    }
+    .message-input {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 10px;
+    }
+    .message-history {
+      height: 200px;
+      overflow-y: scroll;
+      border: 1px solid #ccc;
+      padding: 10px;
+    }
